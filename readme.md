@@ -1,4 +1,4 @@
-## Data Science Course | Coursers
+## Data Science Course | Coursera
 
 ## Author
 
